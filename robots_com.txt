@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pieter-van-den-keybus.com/sitemap.xml
